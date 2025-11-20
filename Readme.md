@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Александра Жевтяк](https://up.htmlacademy.ru/htmlcss-individual/2/user/2076111).
-* Наставник: `Неизвестно`.
+* Наставник:  [Ирина Антипина](https://htmlacademy.ru/profile/id2108789).
 
 ---
 
