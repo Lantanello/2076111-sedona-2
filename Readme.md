@@ -2,7 +2,7 @@
 
 * Студент: [Александра Жевтяк](https://up.htmlacademy.ru/htmlcss-individual/2/user/2076111).
 * Наставник:  [Ирина Антипина](https://htmlacademy.ru/profile/id2108789).
-* Сайт [Мой проект Седона] (https://lantanello.github.io/2076111-sedona-2/).
+* Сайт [Мой проект Седона](https://lantanello.github.io/2076111-sedona-2/).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
